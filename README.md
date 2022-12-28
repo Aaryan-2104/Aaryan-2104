@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on various projects.
 - 📫 How to reach me :- Contact me tghrough mail address- am2244169@gmail.com or through telephone-0091-9518691366
-- 
 
 <!---
 Aaryan-2104/Aaryan-2104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
