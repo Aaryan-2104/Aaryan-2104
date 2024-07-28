@@ -5,13 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryan-2104&label=Profile%20views&color=0e75b6&style=flat" alt="aaryan-2104" /> </p>
 
-- 🔭 I’m currently working on **Projet**
+- 🔭 I’m currently working at Parinama Academy as a Web Developer
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Ruby , C# , NativeScript**
 
-- 💬 Ask me about **MERN**
+- 👯 I’m looking to collaborate on the projects
+
+- 🤝 I’m looking for help on any projects.
+
+- 👨‍💻 All of my projects are available at my Github.
+
+- 💬 Ask me about **C, C++, Java, HTML, CSS, JavaScript, MySQL**
 
 - 📫 How to reach me **am2244169@gmail.com**
+
+- ⚡ Fun fact **I love to travel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
